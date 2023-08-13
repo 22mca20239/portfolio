@@ -24,30 +24,40 @@ a. The font-weight as bolder
 b. The text-decoration as underline
 ![image](https://github.com/22mca20239/portfolio/assets/139697585/7fd7f935-5514-4dce-bde7-1fe3d70ccade)
 
+
 Task 3.
+
 1.Modify the About me section with your name, a unique profile image (different from what is provided in the sample) and a text summary of yourself.
 You may add text about a fictititous person instead of actually providing your personal information.
+
 ![image](https://github.com/22mca20239/portfolio/assets/139697585/9f95866e-ecb6-4059-b124-071bf1eb187e)
+
 Task 4
+
 1.In the Skills section, 2 skills have been initially added.
 
 Add 3 or more skills with appropriate logo and text.
 ![image](https://github.com/22mca20239/portfolio/assets/139697585/cd7af0a9-8c51-4f5c-ba35-ec0b67f62de9)
 
 Task 5
+
 In the projects section, 3 projects with sample content have been given.
 
 Please change the project headings and project details from the default ones to your own/fictitious details.
 
 Set the the class to project-card.
+
 ![image](https://github.com/22mca20239/portfolio/assets/139697585/3ee57d71-7fcc-4aaf-aaf5-b84c6cd7fb94)
+
 Task 6 
 You will notice that 3 Recommendations with random sample text have been initiallly added.
 
 Change the class name to ‘recommendation’ in the code given for all these.
 
 Add at least 3 fictitious recommendations (each of about 25-30 words) in place of these.
+
 ![image](https://github.com/22mca20239/portfolio/assets/139697585/0b029fd9-acdf-42f6-b1c3-89a25e7a5859)
+
 Task 7
 The function addRecommendation() has been in script.js as a part of the starter code. Add an onClick event to the button with id recommend_btn in index.html, to invoke this function.
 
